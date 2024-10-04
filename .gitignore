@@ -160,3 +160,21 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+Data/01jun2024-31aug2024_form13f/COVERPAGE.tsv
+Data/01jun2024-31aug2024_form13f/FORM13F_readme.htm
+Data/01jun2024-31aug2024_form13f/INFOTABLE.tsv
+Data/01jun2024-31aug2024_form13f/OTHERMANAGER.tsv
+Data/01jun2024-31aug2024_form13f/OTHERMANAGER2.tsv
+Data/01jun2024-31aug2024_form13f/SIGNATURE.tsv
+Data/01jun2024-31aug2024_form13f/SUBMISSION.tsv
+Data/01jun2024-31aug2024_form13f/SUMMARYPAGE.tsv
+
+Data/01mar2024-31may2024_form13f/COVERPAGE.tsv
+Data/01mar2024-31may2024_form13f/FORM13F_readme.htm
+Data/01mar2024-31may2024_form13f/INFOTABLE.tsv
+Data/01mar2024-31may2024_form13f/OTHERMANAGER.tsv
+Data/01mar2024-31may2024_form13f/OTHERMANAGER2.tsv
+Data/01mar2024-31may2024_form13f/SIGNATURE.tsv
+Data/01mar2024-31may2024_form13f/SUBMISSION.tsv
+Data/01mar2024-31may2024_form13f/SUMMARYPAGE.tsv
